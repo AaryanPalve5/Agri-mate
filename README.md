@@ -6,8 +6,7 @@ AgriMate is an AI-driven assistant designed to revolutionize agriculture by prov
 - [Overview](#overview)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Usage](#usage)
-- [Contributing](#contributing)
+- [Usage](#usage) 
 
 ## Overview
 
